@@ -1,0 +1,3 @@
+﻿  datastructures.cpp
+C:\Users\user\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\Veri Yapıları\datastructures\datastructures\datastructures.cpp(15,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  datastructures.vcxproj -> C:\Users\user\OneDrive - Manisa Celal Bayar Üniversitesi\Masaüstü\Veri Yapıları\datastructures\x64\Debug\datastructures.exe
